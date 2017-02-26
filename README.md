@@ -2,42 +2,56 @@
 온라인 수업 내용을 기반으로한 정리입니다.
 
 <section id="0">
-  <div style="border:1px solid gray;padding:20px;width:380px">
+  <div style="border:1px solid gray;padding:20px;width:380px;">
   <h2> 목차 </h2>
-  <ul style="font-size:120%;list-style:none">
+  <ul style="font-size:120%;list-style:none;">
+
   <li>
   <a href="#1-1">1-1.</a> HTML 기본 문법
   </li>
+
   <li>
   <a href="#1-2">1-2.</a> HTML 문법 - 속성
   </li>
+
   <li>
   <a href="#1-3">1-3.</a> HTML 문법 - 태그의 중첩
   </li>
+
   <p></p>
+
   <li>
   <a href="#2-1">2-1.</a> 모델링을 HTML로 만들기
   </li>
+
   <li>
   <a href="#2-2">2-2.</a> 의미론적인 웹(Semantic Web)
   </li>
+
   <li>
   <a href="#2-3">2-3.</a> 사이트 완성
   </li>
+
   <p></p>
+
   <li>
   <a href="#3-1">3-1.</a> CSS의 기본문법
   </li>
+
   <li>
   <a href="#3-2">3-2.</a> 박스모델
   </li>
+
   <li>
   <a href="#3-2">3-3.</a> float
   </li>
+
   <p></p>
+
   <li>
   <a href="#3-2">4-1.</a> CSS 실습1
   </li>
+
   </ul>
 </div>
 </section>
