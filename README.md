@@ -302,7 +302,7 @@
 ---
 
 ### <a href="#-목차-">2-3.</a> 사이트 완성
-<img src='https://github.com/inerplat/WEB_Application-opentutorials/blob/master/02-03.%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%99%84%EC%84%B1/webapp_1.png?raw=true' width=60% height=60% alt='사이트 구조' />
+<img src='https://github.com/inerplat/WEB_Application-opentutorials/blob/master/02-03.%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%99%84%EC%84%B1/webapp_1.png?raw=true'/>
 
 ### 쉬어가기
 #### 웹브라우저 (Client Side Tech)
@@ -363,7 +363,7 @@ h1
 
 ### <a href="#-목차-">4-1.</a> CSS 실습1
 
-<img src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/04-01.%20CSS%20%EC%8B%A4%EC%8A%B51/CSSbox.png?raw=true" height=90% width=90% />
+<img src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/04-01.%20CSS%20%EC%8B%A4%EC%8A%B51/CSSbox.png?raw=true"/>
 
 ---
 
@@ -405,7 +405,7 @@ opcache.enable= 0 (opcache를 사용 안하므로 빠르게 결과가 반영됨)
 
 ### <a href="#-목차-">5-3.</a> 웹페이지에 코드 삽입하기
 
-<img src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/05-03.%20%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90%20%EC%BD%94%EB%93%9C%20%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0/code.png?raw=true" height=80% width=80% />
+<img src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/05-03.%20%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90%20%EC%BD%94%EB%93%9C%20%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0/code.png?raw=true"/>
 
 ---
 
@@ -657,9 +657,9 @@ echo a(6);
 
 ### <a href="#-목차-">5-13.</a> UI vs API
 
-<img style="margin:2em;" src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/05-13.%20UI%20vs%20API/uiapi.png?raw=true" height=80% width=80% />
+<img src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/05-13.%20UI%20vs%20API/uiapi.png?raw=true"/>
 
-<img style="margin:2em;" src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/05-13.%20UI%20vs%20API/uiapi2.png?raw=true" height=50% width=50% />
+<img src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/05-13.%20UI%20vs%20API/uiapi2.png?raw=true" />
 
 ---
 
