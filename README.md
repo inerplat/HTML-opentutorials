@@ -353,7 +353,7 @@ h1
 
 `<img src = "주소" />` : 이미지 삽입 태그
 
-<img style="float:left;margin-right:5em" src="https://github.com/inerplat/WEB_Application-opentutorials/tree/master/03-3.%20float/float.png" />
+<img style="margin-right:5em" src="https://github.com/inerplat/WEB_Application-opentutorials/blob/master/03-03.%20float/float.png?raw=true" />
 
 컨텐츠가 나란히 배치되도록 함
 
