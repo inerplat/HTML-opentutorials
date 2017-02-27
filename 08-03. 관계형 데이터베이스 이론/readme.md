@@ -1,9 +1,13 @@
-# 관계형 데이터베이스 이론
+### <a href="#-목차-">8-3.</a> 관계형 데이터베이스 이론
 
-## 단일테이블
->##topic
-><html>
-<table class="tg" id="table">
+#### 단일테이블
+
+<div style="width:100%;overflow:hidden;">
+
+<section style="margin:0px;padding;0px;float:left;">
+<h4>topic</h4>
+<table class="tg" id="table" style="margin:0px;width:auto;float:left" >
+
   <tr>
     <th class="tg-s6z2">id</th>
     <th class="tg-s6z2">title</th>
@@ -40,10 +44,16 @@
     <td class="tg-s6z2">3</td>
   </tr>
 </table>
-</html>
->##user
-<html>
-<table class="tg" id="ttable">
+
+</section>
+
+<section style="float:left;margin-right:5em">
+<p></p>
+</section>
+
+<section style="float:left">
+<h4> user</h4>
+<table class="tg" id="ttable" sstyle="border:solid;margin:0px;width:auto;float:right">
   <tr>
     <th class="tg-s6z2">id</th>
     <th class="tg-s6z2">name</th>
@@ -73,17 +83,21 @@
     <td class="tg-spn1">happydeveloper</td>
   </tr>
 </table>
-</html>
+</section>
+
+</div>
 
 
 
-topic테이블의 author과 user테이블의 id를 결합하여 관계형테이블로 만든다. 
+topic테이블의 author과 user테이블의 id를 결합하여 관계형테이블로 만든다.
 ```
 SELECT title,name FROM topic LEFT JOIN user ON topic.author = user.id
 ```
 
-## 관계형 테이블
->##topic+user
+---
+
+#### 관계형 테이블
+##### topic+user
 <table class="tg">
   <tr>
     <th class="tg-s6z2">title</th>
@@ -114,4 +128,3 @@ SELECT title,name FROM topic LEFT JOIN user ON topic.author = user.id
     <td class="tg-spn1">k8805</td>
   </tr>
 </table>
-
